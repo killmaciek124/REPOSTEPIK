@@ -1,0 +1,1 @@
+print("CZESC JESTEM  MACIEJ")
