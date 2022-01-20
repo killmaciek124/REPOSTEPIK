@@ -25,3 +25,4 @@ Keep lines ***left-aligned*** like ~~this~~.
     - Indented item
 - Fourth item
 Poleceniem ``ls`` sprawdzamy cos tam cos tam kocham basha !!!!
+![Tux, the Linux mascot](/assets/images/tux.png)
