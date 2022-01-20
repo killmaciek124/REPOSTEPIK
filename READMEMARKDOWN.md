@@ -1,7 +1,11 @@
 # Heading level 1
 > Don't put tabs or spaces in front of your paragraphs.
 
-``Keep lines left-aligned like this.``
+``
+def func():
+    while True:
+        print("Karol jest glupi")
+``
 
 Don't put tabs or **spaces** in front *of* your *paragraphs*.
 
