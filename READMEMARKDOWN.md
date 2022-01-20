@@ -1,11 +1,11 @@
 # Heading level 1
 > Don't put tabs or spaces in front of your paragraphs.
 
-``
+```
 def func():
     while True:
         print("Karol jest glupi")
-``
+```
 
 Don't put tabs or **spaces** in front *of* your *paragraphs*.
 
