@@ -25,6 +25,7 @@ Keep lines ***left-aligned*** like ~~this~~.
     - Indented item
 - Fourth item
 Poleceniem ``ls`` sprawdzamy cos tam cos tam kocham basha !!!!
+
 pijany karol : 
 
 ![received_334274458568627](https://user-images.githubusercontent.com/86524345/150336273-52304ab5-b3e2-4c5a-b718-f1d018873792.jpeg)
