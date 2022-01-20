@@ -24,3 +24,4 @@ Keep lines ***left-aligned*** like ~~this~~.
     - Indented item
     - Indented item
 - Fourth item
+Poleceniem ``ls`` sprawdzamy cos tam cos tam kocham basha !!!!
